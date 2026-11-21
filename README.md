@@ -1,3 +1,3 @@
 # STM32 Fundamentals
 
-Lesson: `v1.1.4` (course 1, module 1, lesson 4)
+Lesson: `v1.1.5` (course 1, module 1, lesson 5)
