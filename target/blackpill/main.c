@@ -12,7 +12,7 @@ void reset_handler(void)
     while(1)
     {
         GPIOC_ODR ^= (1 << 13);
-        for(volatile uint32_t i = 0; i < 200000; i++);
+        for(volatile uint32_t i = 0; i < 2000000; i++);
     }
 }
 
